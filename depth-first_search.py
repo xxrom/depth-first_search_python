@@ -31,3 +31,11 @@ node4.adjacenciesList.append(node5)
 dfs = DepthFirstSearch()
 
 dfs.dfs(node1) # A B D E C
+
+#       A
+#     /   \
+#   B      C
+#  /
+# D
+# |
+# E
