@@ -1,5 +1,6 @@
 # меньше памяти потребляет чем bfs , по скорости тоже самое
 # LIFO, разница между Dfs и Bfs => в dfs используем STACK, а bfs - queue
+# can be implemented with recursion as well as with iteration
 
 class Node(object):
   def __init__(self, name):
